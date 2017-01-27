@@ -1,4 +1,17 @@
 libipt.so.1:pt_alloc_encoder
+libipt.so.1:pt_blk_alloc_decoder
+libipt.so.1:pt_blk_core_bus_ratio
+libipt.so.1:pt_blk_free_decoder
+libipt.so.1:pt_blk_get_config
+libipt.so.1:pt_blk_get_image
+libipt.so.1:pt_blk_get_offset
+libipt.so.1:pt_blk_get_sync_offset
+libipt.so.1:pt_blk_next
+libipt.so.1:pt_blk_set_image
+libipt.so.1:pt_blk_sync_backward
+libipt.so.1:pt_blk_sync_forward
+libipt.so.1:pt_blk_sync_set
+libipt.so.1:pt_blk_time
 libipt.so.1:pt_cpu_errata
 libipt.so.1:pt_enc_get_config
 libipt.so.1:pt_enc_get_offset
@@ -6,6 +19,7 @@ libipt.so.1:pt_enc_next
 libipt.so.1:pt_enc_sync_set
 libipt.so.1:pt_errstr
 libipt.so.1:pt_free_encoder
+libipt.so.1:pt_image_add_cached
 libipt.so.1:pt_image_add_file
 libipt.so.1:pt_image_alloc
 libipt.so.1:pt_image_copy
@@ -27,6 +41,11 @@ libipt.so.1:pt_insn_sync_backward
 libipt.so.1:pt_insn_sync_forward
 libipt.so.1:pt_insn_sync_set
 libipt.so.1:pt_insn_time
+libipt.so.1:pt_iscache_add_file
+libipt.so.1:pt_iscache_alloc
+libipt.so.1:pt_iscache_free
+libipt.so.1:pt_iscache_name
+libipt.so.1:pt_iscache_read
 libipt.so.1:pt_library_version
 libipt.so.1:pt_pkt_alloc_decoder
 libipt.so.1:pt_pkt_free_decoder
