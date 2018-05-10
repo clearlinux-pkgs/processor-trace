@@ -4,7 +4,7 @@
 #
 Name     : processor-trace
 Version  : 1.6.1
-Release  : 5
+Release  : 6
 URL      : https://github.com/01org/processor-trace/archive/v1.6.1.tar.gz
 Source0  : https://github.com/01org/processor-trace/archive/v1.6.1.tar.gz
 Summary  : No detailed summary available
