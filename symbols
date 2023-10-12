@@ -20,6 +20,15 @@ libipt.so.2:pt_enc_get_offset
 libipt.so.2:pt_enc_next
 libipt.so.2:pt_enc_sync_set
 libipt.so.2:pt_errstr
+libipt.so.2:pt_evt_alloc_decoder
+libipt.so.2:pt_evt_free_decoder
+libipt.so.2:pt_evt_get_config
+libipt.so.2:pt_evt_get_offset
+libipt.so.2:pt_evt_get_sync_offset
+libipt.so.2:pt_evt_next
+libipt.so.2:pt_evt_sync_backward
+libipt.so.2:pt_evt_sync_forward
+libipt.so.2:pt_evt_sync_set
 libipt.so.2:pt_free_encoder
 libipt.so.2:pt_image_add_cached
 libipt.so.2:pt_image_add_file
